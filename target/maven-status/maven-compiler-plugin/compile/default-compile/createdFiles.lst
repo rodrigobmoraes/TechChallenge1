@@ -1,0 +1,10 @@
+com\almada\people\entity\Person.class
+com\almada\people\PeopleApplication.class
+com\almada\people\repository\PersonRepository.class
+com\almada\people\service\PersonService.class
+com\almada\people\controller\PersonController.class
+com\almada\people\service\PersonServiceImpl.class
+com\almada\people\entity\Person$PersonBuilder.class
+com\almada\people\dto\request\PersonRequestDTO.class
+com\almada\people\util\PersonMapper.class
+com\almada\people\dto\response\PersonResponseDTO.class
